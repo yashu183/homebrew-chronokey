@@ -1,8 +1,8 @@
 class Chronokey < Formula
   desc "CLI tool for managing and generating TOTP codes for two-factor authentication"
-  homepage "https://github.com/yashu183/totp-cli"
-  url "https://registry.npmjs.org/chronokey/-/chronokey-1.0.0.tgz"
-  sha256 "b9b9c6222589f822f7d9305ecef0b8e1adf61cdeac562271f16b8274e9ad76dc"
+  homepage "https://github.com/yashu183/chronokey"
+  url "https://registry.npmjs.org/chronokey/-/chronokey-1.0.1.tgz"
+  sha256 "4d29098b0124089e52365dd8a2994cfc9a3d93501a2ecf5a5c1f75865319cfbc"
   license "MIT"
 
   depends_on "node"
